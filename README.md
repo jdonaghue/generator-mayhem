@@ -2,6 +2,8 @@
 
 `generator-mayhem` creates a base template to start a new [Mayhem](https://github.com/SitePen/mayhem) project.
 
+*Note this source was originally taken from [this commit](https://github.com/SitePen/mayhem/commit/569f2c0be77126f5acbfc72d3f1daac361afb369)*
+
 ## Install
 
 For now this is not registered as an npm module, so you will have to do it yourself locally
