@@ -4,7 +4,7 @@
   "description": "A generator for the Mayhem application framework",
   "license": "MIT",
   "main": "app/index.js",
-  "repository": "SitePen/generator-mayhem",
+  "repository": "jdonaghue/generator-mayhem",
   "author": {
     "name": "SitePen, Inc.",
     "email": "",
